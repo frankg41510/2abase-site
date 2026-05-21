@@ -1,0 +1,3 @@
+2A Base is an educational firearm-law reference and source-monitoring app. It does not sell firearms, ammunition, accessories, training, dealer referrals, product listings, price comparisons, or marketplace activity. It does not provide legal advice. It links users to official government or issuing-agency sources for manual verification.
+
+Premium features are limited to saved jurisdictions, source monitoring, alerts, weekly digest organization, saved official links, and roadmap tracking. Legal content is presented with source-link and verification context, and users are instructed to verify requirements with official sources or a licensed attorney before acting.
